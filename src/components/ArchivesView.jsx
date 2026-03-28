@@ -1,12 +1,12 @@
-import img1 from "../assets/img1.jpg";
-import img2 from "../assets/img2.jpg";
-import img3 from "../assets/img3.jpg";
-import img4 from "../assets/img4.jpg";
-import img5 from "../assets/img5.jpg";
-import img6 from "../assets/img7.jpg";
-import img7 from "../assets/img8.jpg";
-import img8 from "../assets/img9.jpg";
-import img9 from "../assets/img10.jpg";
+import img1 from "../assets/IMG1.jpg";
+import img2 from "../assets/IMG2.jpg";
+import img3 from "../assets/IMG3.jpg";
+import img4 from "../assets/IMG4.JPG";
+import img5 from "../assets/IMG5.jpg";
+import img6 from "../assets/IMG7.jpg";
+import img7 from "../assets/IMG8.jpg";
+import img8 from "../assets/IMG9.jpg";
+import img9 from "../assets/IMG10.jpg";
 import { useState, useEffect } from "react";
 import { getRecentDocuments } from "../services/firebase";
 

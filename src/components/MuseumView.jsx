@@ -137,7 +137,7 @@ export default function MuseumView() {
       </div>
 
       {/* Bulk Upload Pipeline */}
-      <div className="border border-dashed border-blue-400 bg-white rounded-2xl p-12 text-center transition-colors hover:bg-blue-100/50 hover:border-blue-500/60 shadow-md">
+      {/*  <div className="border border-dashed border-blue-400 bg-white rounded-2xl p-12 text-center transition-colors hover:bg-blue-100/50 hover:border-blue-500/60 shadow-md">
         <h3 className="text-2xl font-heading text-blue-500 mb-2">📁 Bulk Upload Pipeline</h3>
         <p className="text-yellow-400 font-light mb-8 max-w-md mx-auto">
           Select multiple document images to be processed automatically and uploaded to the database entirely sequentially.
@@ -156,7 +156,7 @@ export default function MuseumView() {
             </button>
           </div>
         )}
-      </div>
+      </div>*/}
     </div>
   );
 }
